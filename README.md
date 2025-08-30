@@ -27,7 +27,6 @@ $$
 画像（SVG）:
 ![d1_d2_formula](images/d1_d2.svg)
 
----
 
 ### 2.2 株式価値とボラティリティ
 LaTeX:
